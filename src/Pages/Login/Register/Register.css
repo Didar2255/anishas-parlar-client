@@ -1,0 +1,26 @@
+.login-form form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.login-form form input{
+    margin: 10px;
+    width: 90%;
+    border-radius: 30px;
+    padding: 12px 20px;
+}
+.login-img img{
+    width: 600px;
+}
+
+.login-form{
+    border: 1px solid darkred;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(223, 192, 191);
+} 
+.login-form h2{
+    color: rgb(220, 31, 113);
+    font-weight: 700;
+}

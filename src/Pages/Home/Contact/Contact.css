@@ -1,0 +1,23 @@
+.contact-section{
+    background-color: rgba(247, 210, 217, 0.761);
+    padding: 20px;
+}
+.contact-form input{
+    width: 30%;
+    margin: 10px;
+    border: none;
+    padding: 10px;
+    border-radius: 2px;
+}
+.contact-form textarea{
+    width: 62%;
+    margin-top: 10px;
+    border: none;
+    border-radius: 2px;
+}
+.contact-btn{
+   background-color:#f72b7c;
+   border: none;
+   margin-top: 10px;
+
+}

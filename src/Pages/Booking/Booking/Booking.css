@@ -1,0 +1,20 @@
+.booking-area {
+    background: rgb(194, 250, 243);
+    color: #ff4d94;
+    height: 100vh;
+    font-weight: 600;
+    font-size: 18px;
+  }
+  .booking-container {
+    overflow-x: hidden;
+  }
+  .order-menu {
+    list-style: none;
+    cursor: pointer;
+  }
+  .order-menu:hover {
+    color: blue;
+  }
+  .icon{
+    margin-right: 10px;
+  }

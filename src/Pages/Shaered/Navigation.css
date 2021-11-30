@@ -1,0 +1,11 @@
+.display-name{
+    font-size: 26px;
+    font-weight: 600;
+}
+.menu-bar a {
+    text-decoration: none;
+    margin-right: 18px;
+    font-size: 18px;
+    color: rgb(17, 11, 140);
+    font-weight: 600;
+}

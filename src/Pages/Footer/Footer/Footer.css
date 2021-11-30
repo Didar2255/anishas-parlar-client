@@ -1,0 +1,14 @@
+.footer-section{
+    background-color:#dd4280 ;
+    color: wheat;
+    padding: 20px;
+}
+.footer ul li{
+    list-style: none;
+    text-align: left;
+}
+
+.social-media i{
+    font-size: 28px;
+    margin-right: 18px;
+}
